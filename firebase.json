@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "TeyannaApi",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
